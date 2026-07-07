@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Привет, я — GMod Server Developer
+# 👋 Привет, я — Sanzuro
 
 ### 🎮 Разрабатываю серверы для Garry's Mod
 
