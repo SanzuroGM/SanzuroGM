@@ -4,7 +4,9 @@
 
 **Разработка серверной инфраструктуры и игровых модификаций для Garry's Mod**
 
-![Garry's Mod Developer](https://img.shields.io/badge/Garry's%20Mod-Developer-8B0000?style=for-the-badge&labelColor=190505)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=FF3333&center=true&vCenter=true&width=540&lines=Garry%27s+Mod+Developer;GLua+%7C+Python+%7C+Electron;Building+game+servers+and+tools" alt="Анимированная строка о разработке" />
+
+![Garry's Mod Developer](https://img.shields.io/badge/Garry%27s%20Mod-Developer-8B0000?style=for-the-badge&labelColor=190505)
 ![Profile views](https://komarev.com/ghpvc/?username=SanzuroGM&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS)
 
 </div>
@@ -47,20 +49,12 @@
 <h2 align="center">📊 GitHub-статистика</h2>
 
 <div align="center">
-
-<a href="https://github.com/SanzuroGM">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SanzuroGM&show_icons=true&hide_border=true&bg_color=160707&title_color=FF3B3B&icon_color=FF1A1A&text_color=F2B8B8&rank_icon=github" alt="Статистика GitHub" />
-</a>
-<a href="https://github.com/SanzuroGM">
-  <img height="165" src="https://streak-stats.demolab.com?user=SanzuroGM&theme=dark&hide_border=true&background=160707&ring=8B0000&fire=FF1A1A&currStreakLabel=FF4D4D&sideLabels=FF6B6B&currStreakNum=FF3333&sideNums=FF3333&dates=C98B8B" alt="GitHub streak" />
-</a>
+<a href="https://github.com/SanzuroGM"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=SanzuroGM&show_icons=true&hide_border=true&bg_color=160707&title_color=FF3B3B&icon_color=FF1A1A&text_color=F2B8B8&rank_icon=github&card_width=495" alt="Статистика GitHub" /></a>
+<a href="https://github.com/SanzuroGM"><img width="49%" src="https://streak-stats.demolab.com?user=SanzuroGM&theme=dark&hide_border=true&background=160707&ring=8B0000&fire=FF1A1A&currStreakLabel=FF4D4D&sideLabels=FF6B6B&currStreakNum=FF3333&sideNums=FF3333&dates=C98B8B&card_width=495" alt="GitHub streak" /></a>
 
 <br><br>
 
-<a href="https://github.com/SanzuroGM">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanzuroGM&layout=compact&hide_border=true&bg_color=160707&title_color=FF3B3B&text_color=F2B8B8" alt="Популярные языки" />
-</a>
-
+<a href="https://github.com/SanzuroGM"><img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanzuroGM&layout=compact&hide_border=true&bg_color=160707&title_color=FF3B3B&text_color=F2B8B8&card_width=495" alt="Популярные языки" /></a>
 </div>
 
 <div align="center">
