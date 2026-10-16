@@ -14,6 +14,7 @@
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Helix](https://img.shields.io/badge/Helix-2C2D72?style=for-the-badge)
 ![Glua](https://img.shields.io/badge/Glua-2C2D72?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Garry%27s_Mod_logo.svg/512px-Garry%27s_Mod_logo.svg.png&logoColor=white)
+![NutScript](https://img.shields.io/badge/NutScript-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 </div>
 
