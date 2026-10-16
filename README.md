@@ -73,12 +73,12 @@
 
 ---
 
-<h2 align="center">🩸 Немного интерактива</h2>
+<h2 align="center">🩸 Анимации и интерактив</h2>
 
 <div align="center">
 
-<a href="https://github.com/zhravan/github-readme-quotes">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&borderColor=8B0000&quoteCategory=programming" alt="Случайная программная цитата с анимацией" />
+<a href="https://github.com/SanzuroGM">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1A0000,50:8B0000,100:FF1A1A&height=150&text=GLUA%20%2F%20PYTHON%20%2F%20ELECTRON&fontSize=28&fontColor=FFFFFF&animation=blinking" width="100%" alt="Мигающий кроваво-красный баннер со стеком технологий" />
 </a>
 
 <br><br>
