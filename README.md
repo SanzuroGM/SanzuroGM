@@ -1,28 +1,30 @@
 <div align="center">
-Sanzuro
-Разработчик серверов и инструментов для Garry’s Mod  
-GLua · Lua · Python · Electron
-</div>
----
-Направления
-Garry’s Mod — серверы, аддоны, игровые режимы и оптимизация
-Electron — кроссплатформенные приложения и инструменты
-Python — бэкенд, автоматизация и боты
-Стек
-![GLua](https://img.shields.io/badge/GLua-2C2D72?style=flat-square)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Helix](https://img.shields.io/badge/Helix-5C6BC0?style=flat-square)
-![NutScript](https://img.shields.io/badge/NutScript-5C6BC0?style=flat-square)
-GitHub
+
+# 👋 Привет, я — Sanzuro
+
+### 🎮 Разрабатываю серверы для Garry's Mod
+
+
+## 🛠️ Мой стек
+
 <div align="center">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&hide_rank=false&rank_icon=github&theme=transparent)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="Змейка активности GitHub" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-</picture>
+
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Helix](https://img.shields.io/badge/Helix-2C2D72?style=for-the-badge)
+![Glua](https://img.shields.io/badge/Glua-2C2D72?style=for-the-badge&logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Garry%27s_Mod_logo.svg/512px-Garry%27s_Mod_logo.svg.png&logoColor=white)
+![NutScript](https://img.shields.io/badge/NutScript-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
 </div>
-Контакты
-Discord · Steam · Telegram
+
+### 💡 Чем я занимаюсь
+
+- 🔧 **Серверная разработка Garry's Mod** — создание и настройка игровых серверов, написание аддонов и скриптов на Lua (GLua)
+- 🖥️ **Electron** — разработка десктопных приложений (лаунчеры, панели управления серверами, инструменты для комьюнити)
+- 🐍 **Python** — бэкенд, автоматизация, боты, утилиты и серверные решения
+
+---
+
+
+## 📊 Технологии подробнее
