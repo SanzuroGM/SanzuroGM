@@ -70,3 +70,26 @@
 [![Telegram](https://img.shields.io/badge/Telegram-B22222?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
 
 </div>
+
+---
+
+<h2 align="center">🩸 Немного интерактива</h2>
+
+<div align="center">
+
+<a href="https://github.com/zhravan/github-readme-quotes">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in&borderColor=8B0000&quoteCategory=programming" alt="Случайная программная цитата с анимацией" />
+</a>
+
+<br><br>
+
+[![Star this profile repository](https://img.shields.io/github/stars/SanzuroGM/SanzuroGM?style=for-the-badge&logo=github&logoColor=white&label=LEAVE%20A%20STAR&color=8B0000)](https://github.com/SanzuroGM/SanzuroGM)
+[![GitHub followers](https://img.shields.io/github/followers/SanzuroGM?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=5C0A0A)](https://github.com/SanzuroGM)
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/SanzuroGM">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0000,50:8B0000,100:FF1A1A&height=180&section=footer&text=THANKS%20FOR%20VISITING&fontSize=32&fontColor=FFFFFF&animation=twinkling&fontAlignY=65" width="100%" alt="Анимированный кроваво-красный футер" />
+  </a>
+</div>
