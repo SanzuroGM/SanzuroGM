@@ -28,3 +28,36 @@
 
 
 ## 📊 Технологии подробнее
+Серверная разработка (GMod)
+├── GLua / Lua scripting
+├── Настройка Dedicated Server (srcds)
+├── Создание аддонов и gamemode'ов
+└── Оптимизация и администрирование
+
+Десктоп-приложения
+├── Electron + Node.js
+├── HTML / CSS / JavaScript
+└── Кроссплатформенные решения
+
+Python-разработка
+├── Backend-сервисы
+├── Автоматизация и скрипты
+├── Discord-боты
+└── Работа с API
+
+text
+
+
+---
+
+## 📫 Связаться со мной
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_LINK)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/YOUR_ID)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
+
+</div>
+
+---
