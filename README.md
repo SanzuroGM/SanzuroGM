@@ -58,24 +58,24 @@ Python
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Статистика GitHub" />
+<a href="https://github.com/SanzuroGM">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SanzuroGM&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Статистика GitHub" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Популярные языки" />
+<a href="https://github.com/SanzuroGM">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanzuroGM&layout=compact&theme=tokyonight&hide_border=true" alt="Популярные языки" />
 </a>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=SanzuroGM&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=SanzuroGM&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub trophies" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Просмотры профиля" />
+<img src="https://komarev.com/ghpvc/?username=SanzuroGM&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Просмотры профиля" />
 
 </div>
 
@@ -85,7 +85,7 @@ Python
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="График активности GitHub" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanzuroGM&theme=tokyo-night&hide_border=true" alt="График активности GitHub" />
 
 </div>
 
@@ -96,9 +96,9 @@ Python
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="Змейка, ползущая по графику контрибьюций" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanzuroGM/SanzuroGM/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SanzuroGM/SanzuroGM/output/github-contribution-grid-snake.svg">
+  <img alt="Змейка, ползущая по графику контрибьюций" src="https://raw.githubusercontent.com/SanzuroGM/SanzuroGM/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
