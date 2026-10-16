@@ -25,9 +25,9 @@
 
 ## Направления
 
-- **Garry's Mod** — серверная разработка, написание аддонов и гейммодов на GLua, настройка и администрирование dedicated-серверов (srcds).
-- **Electron** — десктопные приложения: лаунчеры, панели управления, инструменты для комьюнити.
-- **Python** — бэкенд-сервисы, автоматизация, Discord-боты, интеграция с внешними API.
+- **Garry's Mod** — серверная разработка, аддоны и гейммоды на GLua, настройка и администрирование dedicated-серверов (srcds).
+- **Electron** — десктопные приложения: лаунчеры, панели управления и инструменты для комьюнити.
+- **Python** — бэкенд-сервисы, автоматизация, Discord-боты и интеграция с внешними API.
 
 ---
 
@@ -50,3 +50,16 @@ Python
 ├── Автоматизация и скрипты
 ├── Discord-боты
 └── Работа с API
+```
+
+---
+
+## Контакты
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_LINK)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/YOUR_ID)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
+
+</div>
