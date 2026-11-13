@@ -49,12 +49,24 @@
 <h2 align="center">📊 GitHub-статистика</h2>
 
 <div align="center">
-<a href="https://github.com/SanzuroGM"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=SanzuroGM&show_icons=true&hide_border=true&bg_color=160707&title_color=FF3B3B&icon_color=FF1A1A&text_color=F2B8B8&rank_icon=github&card_width=495" alt="Статистика GitHub" /></a>
-<a href="https://github.com/SanzuroGM"><img width="49%" src="https://streak-stats.demolab.com?user=SanzuroGM&theme=dark&hide_border=true&background=160707&ring=8B0000&fire=FF1A1A&currStreakLabel=FF4D4D&sideLabels=FF6B6B&currStreakNum=FF3333&sideNums=FF3333&dates=C98B8B&card_width=495" alt="GitHub streak" /></a>
+  
+  <!-- Основная карточка (С замененным доменом на случай падения Vercel) -->
+  <a href="https://github.com/SanzuroGM">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SanzuroGM&show_icons=true&hide_border=true&bg_color=160707&title_color=FF3B3B&icon_color=FF1A1A&text_color=F2B8B8&rank_icon=github" alt="Статистика GitHub" />
+  </a>
 
-<br><br>
+  <!-- Стрик -->
+  <a href="https://github.com/SanzuroGM">
+    <img width="49%" src="https://streak-stats.demolab.com?user=SanzuroGM&theme=dark&hide_border=true&background=160707&ring=8B0000&fire=FF1A1A&currStreakLabel=FF4D4D&sideLabels=FF6B6B&currStreakNum=FF3333&sideNums=FF3333&dates=C98B8B" alt="GitHub streak" />
+  </a>
 
-<a href="https://github.com/SanzuroGM"><img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanzuroGM&layout=compact&hide_border=true&bg_color=160707&title_color=FF3B3B&text_color=F2B8B8&card_width=495" alt="Популярные языки" /></a>
+  <br><br>
+
+  <!-- Топ языков (Также заменен домен для надежности) -->
+  <a href="https://github.com/SanzuroGM">
+    <img width="55%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SanzuroGM&layout=compact&hide_border=true&bg_color=160707&title_color=FF3B3B&text_color=F2B8B8" alt="Популярные языки" />
+  </a>
+
 </div>
 
 <div align="center">
@@ -83,7 +95,7 @@
 ### 🏅 Визуальные бейджи (Фото)
 <div align="center">
 
-<!-- Замени ссылки на картинки (src) на реальные фото твоих сертификатов с Credly или локальные изображения -->
+<!-- Замени ссылки на картинки (src) на реальные фото твоих сертификатов с Credly -->
 <a href="https://www.credly.com/your_link_here">
   <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53d6b1177b0f/image.png" width="130" alt="OSCP Badge" />
 </a>
