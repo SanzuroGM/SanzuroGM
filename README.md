@@ -42,18 +42,6 @@
 - 💻 **Инструменты:** Nmap, Metasploit, Burp Suite, Wireshark, Hashcat, Docker.
 - 🐍 **Код и автоматизация:** Python (backend, скрипты), Bash, парсинг и интеграции с API.
 
-<h2 align="center">🩸 Сертификаты и Обучение</h2>
-
-<div align="center">
-
-![OSCP](https://img.shields.io/badge/OSCP-In_Progress-8B0000?style=for-the-badge&logo=offensive-security&logoColor=white)
-![eJPT](https://img.shields.io/badge/eJPT-Certified-A00000?style=for-the-badge&logo=ine&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_1%25-B22222?style=for-the-badge&logo=tryhackme&logoColor=white)
-
-*(Замени эти плашки на свои реальные сертификаты: CEH, CompTIA Security+, PortSwigger Academy и т.д.)*
-
-</div>
-
 <div align="center">
   <img src="https://media1.tenor.com/m/9TzCaltizuwAAAAC/muzan-demon-slayer.gif" width="100%" alt="Музан из Demon Slayer — разделитель 2" />
 </div>
@@ -81,18 +69,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-B22222?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-5C0A0A?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/YOUR_ID)
 
-</div>
-
----
-
-<h2 align="center">🩸 Анимации и интерактив</h2>
-
-<div align="center">
-
-<a href="https://github.com/SanzuroGM">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1A0000,50:8B0000,100:FF1A1A&height=150&text=OFFENSIVE%20SECURITY%20%2F%20PYTHON%20%2F%20LINUX&fontSize=28&fontColor=FFFFFF&animation=blinking" width="100%" alt="Мигающий кроваво-красный баннер со стеком технологий" />
-</a>
-
 <br><br>
 
 [![Star this profile repository](https://img.shields.io/github/stars/SanzuroGM/SanzuroGM?style=for-the-badge&logo=github&logoColor=white&label=LEAVE%20A%20STAR&color=8B0000)](https://github.com/SanzuroGM/SanzuroGM)
@@ -100,8 +76,32 @@
 
 </div>
 
+---
+
+<h2 align="center">🩸 Сертификаты и Достижения</h2>
+
+### 🏅 Визуальные бейджи (Фото)
 <div align="center">
-  <a href="https://github.com/SanzuroGM">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0000,50:8B0000,100:FF1A1A&height=180&section=footer&text=THANKS%20FOR%20VISITING&fontSize=32&fontColor=FFFFFF&animation=twinkling&fontAlignY=65" width="100%" alt="Анимированный кроваво-красный футер" />
-  </a>
+
+<!-- Замени ссылки на картинки (src) на реальные фото твоих сертификатов с Credly или локальные изображения -->
+<a href="https://www.credly.com/your_link_here">
+  <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53d6b1177b0f/image.png" width="130" alt="OSCP Badge" />
+</a>
+<a href="https://www.credly.com/your_link_here">
+  <img src="https://images.credly.com/size/340x340/images/f8cc8b31-52b8-4e43-90cb-63f7bd1e3836/image.png" width="130" alt="CompTIA Security+ Badge" />
+</a>
+<a href="https://tryhackme.com/p/YOUR_USERNAME">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_USERNAME.png" width="130" alt="TryHackMe Badge" />
+</a>
+
+</div>
+
+### 📜 Ссылки на подтверждения
+<div align="center">
+
+- **[OSCP](https://www.credly.com/your_link_here)** — Offensive Security Certified Professional
+- **[CompTIA Security+](https://www.credly.com/your_link_here)** — Основы кибербезопасности
+- **[TryHackMe](https://tryhackme.com/p/YOUR_USERNAME)** — Профиль с выполненными лабораториями
+- **[Hack The Box](https://app.hackthebox.com/profile/YOUR_ID)** — Профиль с решенными машинами
+
 </div>
