@@ -2,11 +2,11 @@
 
 # 🩸 Sanzuro
 
-**Разработка серверной инфраструктуры и игровых модификаций для Garry's Mod**
+**Разработка защищенных инфраструктур, аудит безопасности и Red Team инструментарий**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=FF3333&center=true&vCenter=true&width=540&lines=Garry%27s+Mod+Developer;GLua+%7C+Python+%7C+Electron;Building+game+servers+and+tools" alt="Анимированная строка о разработке" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=FF3333&center=true&vCenter=true&width=540&lines=Cybersecurity+Specialist;Offensive+Security+%7C+Red+Team;Python+%7C+Linux+%7C+Networking" alt="Анимированная строка о кибербезопасности" />
 
-![Garry's Mod Developer](https://img.shields.io/badge/Garry%27s%20Mod-Developer-8B0000?style=for-the-badge&labelColor=190505)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Specialist-8B0000?style=for-the-badge&labelColor=190505)
 ![Profile views](https://komarev.com/ghpvc/?username=SanzuroGM&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS)
 
 </div>
@@ -15,16 +15,16 @@
   <img src="https://media1.tenor.com/m/eLFWKDvHx4QAAAAd/anime.gif" width="100%" alt="Аниме GIF — разделитель 1" />
 </div>
 
-<h2 align="center">🩸 Стек</h2>
+<h2 align="center">🩸 Стек и Инструменты</h2>
 
 <div align="center">
 
-![Lua](https://img.shields.io/badge/Lua-8B0000?style=for-the-badge&logo=lua&logoColor=white)
-![GLua](https://img.shields.io/badge/GLua-A00000?style=for-the-badge&logo=lua&logoColor=white)
-![Python](https://img.shields.io/badge/Python-B22222?style=for-the-badge&logo=python&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-7F1D1D?style=for-the-badge&logo=electron&logoColor=white)
-![Helix](https://img.shields.io/badge/Helix-5C0A0A?style=for-the-badge)
-![NutScript](https://img.shields.io/badge/NutScript-C1121F?style=for-the-badge&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/Python-8B0000?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-A00000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-B22222?style=for-the-badge&logo=linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-7F1D1D?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-5C0A0A?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-C1121F?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -32,15 +32,27 @@
 
 ## 🔥 Чем занимаюсь
 
-- 🎮 **Garry's Mod** — создаю аддоны и гейммоды на GLua, настраиваю и администрирую dedicated-серверы (srcds).
-- 🖥️ **Electron** — разрабатываю десктопные приложения: лаунчеры, панели управления и инструменты для игровых сообществ.
-- 🐍 **Python** — пишу бэкенд-сервисы, автоматизацию, Discord-ботов и интеграции с API.
+- 🛡️ **Аудит безопасности** — провожу тестирование на проникновение (Web, Network, Infrastructure), ищу уязвимости и помогаю их закрывать.
+- 🐍 **Разработка инструментов** — пишу скрипты автоматизации для Red Team (парсеры, эксплойты, кастомные утилиты на Python).
+- 🐧 **Инфраструктура** — настраиваю защищенные серверы, VPN, мониторинг (SIEM) и анализирую сетевой трафик.
 
-## ⚙️ Технологии и навыки
+## ⚙️ Навыки и направления
 
-- 🎮 **GMod / GLua:** аддоны, гейммоды, серверная логика, оптимизация и администрирование srcds.
-- 💻 **Десктоп:** Electron, Node.js, HTML, CSS и JavaScript.
-- 🐍 **Python:** backend-сервисы, скрипты автоматизации, Discord-боты и работа с API.
+- 🎯 **Offensive Security:** Web Application Pentesting, Network Pentesting, OSINT, Social Engineering.
+- 💻 **Инструменты:** Nmap, Metasploit, Burp Suite, Wireshark, Hashcat, Docker.
+- 🐍 **Код и автоматизация:** Python (backend, скрипты), Bash, парсинг и интеграции с API.
+
+<h2 align="center">🩸 Сертификаты и Обучение</h2>
+
+<div align="center">
+
+![OSCP](https://img.shields.io/badge/OSCP-In_Progress-8B0000?style=for-the-badge&logo=offensive-security&logoColor=white)
+![eJPT](https://img.shields.io/badge/eJPT-Certified-A00000?style=for-the-badge&logo=ine&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Top_1%25-B22222?style=for-the-badge&logo=tryhackme&logoColor=white)
+
+*(Замени эти плашки на свои реальные сертификаты: CEH, CompTIA Security+, PortSwigger Academy и т.д.)*
+
+</div>
 
 <div align="center">
   <img src="https://media1.tenor.com/m/9TzCaltizuwAAAAC/muzan-demon-slayer.gif" width="100%" alt="Музан из Demon Slayer — разделитель 2" />
@@ -66,8 +78,8 @@
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-8B0000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_LINK)
-[![Steam](https://img.shields.io/badge/Steam-5C0A0A?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/YOUR_ID)
 [![Telegram](https://img.shields.io/badge/Telegram-B22222?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-5C0A0A?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/YOUR_ID)
 
 </div>
 
@@ -78,7 +90,7 @@
 <div align="center">
 
 <a href="https://github.com/SanzuroGM">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1A0000,50:8B0000,100:FF1A1A&height=150&text=GLUA%20%2F%20PYTHON%20%2F%20ELECTRON&fontSize=28&fontColor=FFFFFF&animation=blinking" width="100%" alt="Мигающий кроваво-красный баннер со стеком технологий" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1A0000,50:8B0000,100:FF1A1A&height=150&text=OFFENSIVE%20SECURITY%20%2F%20PYTHON%20%2F%20LINUX&fontSize=28&fontColor=FFFFFF&animation=blinking" width="100%" alt="Мигающий кроваво-красный баннер со стеком технологий" />
 </a>
 
 <br><br>
