@@ -46,26 +46,13 @@
   <img src="https://media1.tenor.com/m/9TzCaltizuwAAAAC/muzan-demon-slayer.gif" width="100%" alt="Музан из Demon Slayer — разделитель 2" />
 </div>
 
-<h2 align="center">📊 GitHub-статистика</h2>
+<h2 align="center">📬 Контакты</h2>
 
 <div align="center">
-  
-  <!-- Основная карточка (С замененным доменом на случай падения Vercel) -->
-  <a href="https://github.com/SanzuroGM">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SanzuroGM&show_icons=true&hide_border=true&bg_color=160707&title_color=FF3B3B&icon_color=FF1A1A&text_color=F2B8B8&rank_icon=github" alt="Статистика GitHub" />
-  </a>
 
-  <!-- Стрик -->
-  <a href="https://github.com/SanzuroGM">
-    <img width="49%" src="https://streak-stats.demolab.com?user=SanzuroGM&theme=dark&hide_border=true&background=160707&ring=8B0000&fire=FF1A1A&currStreakLabel=FF4D4D&sideLabels=FF6B6B&currStreakNum=FF3333&sideNums=FF3333&dates=C98B8B" alt="GitHub streak" />
-  </a>
-
-  <br><br>
-
-  <!-- Топ языков (Также заменен домен для надежности) -->
-  <a href="https://github.com/SanzuroGM">
-    <img width="55%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SanzuroGM&layout=compact&hide_border=true&bg_color=160707&title_color=FF3B3B&text_color=F2B8B8" alt="Популярные языки" />
-  </a>
+[![Discord](https://img.shields.io/badge/Discord-8B0000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_LINK)
+[![Telegram](https://img.shields.io/badge/Telegram-B22222?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Branchik07-5C0A0A?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/branchik07)
 
 </div>
 
@@ -73,37 +60,18 @@
   <img src="https://media1.tenor.com/m/kPfcBXbuoMEAAAAd/muzan-demon-slayer.gif" width="100%" alt="Музан из Demon Slayer — разделитель 3" />
 </div>
 
-<h2 align="center">📬 Контакты</h2>
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-8B0000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_LINK)
-[![Telegram](https://img.shields.io/badge/Telegram-B22222?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-5C0A0A?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/YOUR_ID)
-
-<br><br>
-
-[![Star this profile repository](https://img.shields.io/github/stars/SanzuroGM/SanzuroGM?style=for-the-badge&logo=github&logoColor=white&label=LEAVE%20A%20STAR&color=8B0000)](https://github.com/SanzuroGM/SanzuroGM)
-[![GitHub followers](https://img.shields.io/github/followers/SanzuroGM?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=5C0A0A)](https://github.com/SanzuroGM)
-
-</div>
-
----
-
 <h2 align="center">🩸 Сертификаты и Достижения</h2>
 
 ### 🏅 Визуальные бейджи (Фото)
 <div align="center">
 
 <!-- Замени ссылки на картинки (src) на реальные фото твоих сертификатов с Credly -->
+<a href="https://tryhackme.com/p/branchik07">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/branchik07.png" width="130" alt="TryHackMe Badge" />
+</a>
+<!-- Пример заглушки для OSCP, можно удалить, если его нет -->
 <a href="https://www.credly.com/your_link_here">
   <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53d6b1177b0f/image.png" width="130" alt="OSCP Badge" />
-</a>
-<a href="https://www.credly.com/your_link_here">
-  <img src="https://images.credly.com/size/340x340/images/f8cc8b31-52b8-4e43-90cb-63f7bd1e3836/image.png" width="130" alt="CompTIA Security+ Badge" />
-</a>
-<a href="https://tryhackme.com/p/YOUR_USERNAME">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_USERNAME.png" width="130" alt="TryHackMe Badge" />
 </a>
 
 </div>
@@ -111,9 +79,8 @@
 ### 📜 Ссылки на подтверждения
 <div align="center">
 
-- **[OSCP](https://www.credly.com/your_link_here)** — Offensive Security Certified Professional
-- **[CompTIA Security+](https://www.credly.com/your_link_here)** — Основы кибербезопасности
-- **[TryHackMe](https://tryhackme.com/p/YOUR_USERNAME)** — Профиль с выполненными лабораториями
+- **[TryHackMe](https://tryhackme.com/p/branchik07)** — Профиль с выполненными лабораториями (branchik07)
+- **[OSCP](https://www.credly.com/your_link_here)** — Offensive Security Certified Professional *(замени ссылку, если получишь)*
 - **[Hack The Box](https://app.hackthebox.com/profile/YOUR_ID)** — Профиль с решенными машинами
 
 </div>
